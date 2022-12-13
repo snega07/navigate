@@ -1,0 +1,11 @@
+.bg{
+    height: 70px;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aquamarine;
+}
+list{
+    float:'left';
+    padding-Left:'30px';
+}
